@@ -1,0 +1,13 @@
+{
+  "name": "01-crud-de-tarefas",
+  "version": "1.0.0",
+  "description": "Desafio de node js com o tema de CRUD de tarefas, com importação de tarefas em massa por um arquivo csv",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch server.js"
+  },
+  "author": "Leirisson souza dos santos",
+  "license": "ISC"
+}
